@@ -1,3 +1,4 @@
+// This program creates a string providing some information regarding a language given its name and number of speakers
 public class Language {
     protected String name;
     protected int numSpeakers;
